@@ -1,0 +1,9 @@
+img {
+  border-radius: 100%;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+  padding: 1rem;
+}
